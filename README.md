@@ -4,7 +4,7 @@
 
 # 🚀 SpaceAI Yield Simulator
 
-An interactive tool to **simulate capital growth** based on daily returns, reinvestment logic, and bonus levels — optimized for the platform [SpaceAI](https://app.spaceaius.com/#/pages/login/login?invitationCode=7765924035).
+An interactive tool to **simulate capital growth** based on daily returns, reinvestment logic, and bonus levels — optimized for the platform [SpaceAI](https://app.spaceaius.com/#/).
 
 ## 🧮 Features
 
